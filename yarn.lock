@@ -358,9 +358,9 @@ codechain-primitives@^0.4.6:
     ripemd160 "^2.0.2"
     rlp "^2.1.0"
 
-"codechain-sdk@https://github.com/sgkim126/codechain-sdk-js.git#result-lib":
+"codechain-sdk@https://github.com/HoOngEe/codechain-sdk-js.git#range-pendingTx-lib":
   version "0.5.1"
-  resolved "https://github.com/sgkim126/codechain-sdk-js.git#14e96f43faa29f33dfd876e6e3a54f7305926515"
+  resolved "https://github.com/HoOngEe/codechain-sdk-js.git#f1bc57820a42d48ba683e66e11374fba38a908b4"
   dependencies:
     buffer "5.1.0"
     codechain-keystore "^0.6.0"
